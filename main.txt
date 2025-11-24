@@ -1,2 +1,3 @@
 Archivo inicial del ejercicio.
-git clone https://github.com/JonathanDValdez/ejercicio-git-rama.git cd ejercicio-git-rama
+git clone https://github.com/JonathanDValdez/ejercicio-git-rama.git
+cd ejercicio-git-rama
