@@ -1,3 +1,4 @@
-Archivo inicial del ejercicio.
-git clone https://github.com/JonathanDValdez/ejercicio-git-rama.git
-cd ejercicio-git-rama
+Mi nombre es Jonathan Daniel Valdez
+Con este curso espero entender cómo funciona el desarrollo de software y cómo se asegura su calidad.
+Instruirme en una rama de IT para poder seguir progresando y dedicarle mas tiempo a una carrera que me gusta
+Aprender cómo responder entrevistas técnicas y cómo mostrar mi motivación aunque no tengas experiencia.
